@@ -1,4 +1,6 @@
-Hybrid Theme for Xcode
+# Hybrid Theme for Xcode
+
+![](https://raw.githubusercontent.com/yasuoza/Hybrid-Theme-for-Xcode/master/screenshot.png)
 
 ## Installation
 
