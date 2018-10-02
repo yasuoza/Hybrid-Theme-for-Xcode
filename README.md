@@ -7,6 +7,7 @@
 ```
 mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 cp Hybrid.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+cp Hybrid.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
 
 then, restart Xcode.
